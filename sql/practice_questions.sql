@@ -1,0 +1,1 @@
+-- See chat for Day-1 queries. More prompts will be added on Day-2.
